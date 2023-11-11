@@ -11,4 +11,4 @@ build: deps
 
 
 deps:	
-	wget https://justine.lol/cosmopolitan/cosmopolitan-amalgamation-2.2.zip && unzip -o cosmopolitan-amalgamation-2.2.zip -d cosmo
+	wget https://justine.lol/cosmopolitan/cosmopolitan-amalgamation-3.0.2.zip && unzip -o cosmopolitan-amalgamation-3.0.2.zip -d cosmo
